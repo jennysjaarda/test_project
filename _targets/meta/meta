@@ -1,0 +1,9 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+create_plot|function|ab9344eabf5bc41d||||||||||||||
+.Random.seed|object|ad11289ad94c3c4b||||||||||||||
+raw_data_file|stem|18249aa3ba43d359|b6df0c34fc22d1b9|ef46db3751d8e999|2110307107|data/raw_data.csv|t18780.5264519365s|b1a5d9836ec7e80d|2890|file|vector|||2.437||
+raw_data|stem|2fffa1f7d9c90141|000ed0cc054f0d35|8085693630e9c29b|-979620141||t18780.5269497125s|f014ea880cc796a7|1506|rds|vector|||0.096||
+data|stem|0c6a69f6fdc5c494|173ca52d67e263fa|95bc3e81eb4aea67|1588979285||t18780.5269500654s|98bc275fa10727b0|1339|rds|vector|||0.021||
+hist|stem|4e20ed5578618c80|68877181ab74e51e|af822408d6cd9362|-1026346201||t18780.5269509443s|99c67de1ff4a7ad5|44541|rds|vector|||0.021||
+fit|stem|bdff729444ce508f|aa0df6c5dbd10537|2c3d284fe803e750|1780184594||t18780.5269511945s|8d0f655f7afde6e5|1800|rds|vector|||0.012||
+report|stem|2c992c258b3b7ad1|02a2c3af642c2746|664d923daefb6490|-237041703|index.html*index.Rmd|t18780.5278971833s|60368837a36e7296|805813|file|vector|||6.969||
